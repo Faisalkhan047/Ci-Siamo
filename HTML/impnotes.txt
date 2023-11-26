@@ -1,0 +1,56 @@
+ 1.topcontainer1
+
+        background-image:url(https://images.getbento.com/accounts/e33866a234dde96cfae828494062bdf5/media/images/14792ci-siamo-111911.jpg?w=1200&fit=max&auto=compress,format);
+ 
+ 2.topcontainer2
+
+        background-image:url(https://images.getbento.com/accounts/e33866a234dde96cfae828494062bdf5/media/images/4137ci-siamo-2-0550.jpg?w=1200&fit=max&auto=compress,format);
+    
+
+3.topcontainer3
+
+        background-image: url(https://images.getbento.com/accounts/e33866a234dde96cfae828494062bdf5/media/images/17063ci-siamo-2-0694.jpg?w=1200&fit=crop&auto=compress,format&crop=focalpoint&fp-x=0.5&fp-y=0.5);
+
+4.topcontainer4
+
+         background-image: url(https://images.getbento.com/accounts/e33866a234dde96cfae828494062bdf5/media/images/34206ci-siamo-2-0724.jpg?w=1200&fit=max&auto=compress,format);
+
+5.topcontainer5
+
+        background-image: url(https://images.getbento.com/accounts/e33866a234dde96cfae828494062bdf5/media/images/63443ci-siamo-2761.jpg?w=1200&fit=max&auto=compress,format);
+
+6.topcontainer6
+
+    background-image: url(https://images.getbento.com/accounts/e33866a234dde96cfae828494062bdf5/media/images/66099ci-siamo-2-0017.jpg?w=1200&fit=max&auto=compress,format);
+        
+7.topcontainer7
+
+
+
+
+
+
+
+
+.div3 {
+            overflow: hidden;
+        }
+
+        .div3 header {
+            width: 400%;
+            height: 400px;
+            animation-name: slidein;
+            animation-duration: 12s;
+            animation-iteration-count: infinite;
+            position: relative;
+        }
+
+        .div3 header img {
+            width: 25%;
+            float: left;
+        }
+
+        img {
+            width: 100%;
+            height: 600px;
+        }
